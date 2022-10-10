@@ -32,6 +32,7 @@
 
 UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. Esse Projeto foi desenvolvido durante a live ministrada pelo professor Bonieky Lacerda. 
 
+## ✅ Demonstração
 ![Vite + React - Google Chrome 10_10_2022 09_55_43](https://user-images.githubusercontent.com/93893533/194871288-ea8b1fab-ba31-4533-b427-6a43f7293446.png)
 
 <hr>
