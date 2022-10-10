@@ -1,5 +1,7 @@
 
-![netflix-logo](https://user-images.githubusercontent.com/93893533/194868053-aae1b8cd-07d8-439e-bc13-5162a050237f.png)
+<h4 align="center">
+  <img src="./public/netflix-logo.png" alt="logo" height="75"/>
+</h4>
 
 <h1 align="center">
   UI - Clone
